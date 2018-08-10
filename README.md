@@ -1,1 +1,1 @@
-# INP_Converter
+# INP_Converter for collocation code
